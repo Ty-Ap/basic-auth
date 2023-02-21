@@ -27,3 +27,7 @@ why encrypt?
 
 we never want to save a raw or encoded password in out database
 hashing adds salt to the "pepper" and forever changes the form of the password as a measure of security
+
+UML
+
+![UML](./assets/uml.png)
